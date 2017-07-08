@@ -1,0 +1,50 @@
+.a1 {
+background-color: red;
+font-family: Arial;
+font-size: 10px;
+color:white;
+line-height: 1;
+padding:10px;
+border: 10px solid black;
+border-radius: 10px;
+}
+.a2 {
+background-color: orange;
+font-family: Georgia;
+font-size: 20px;
+color:black;
+line-height: 2;
+padding:20px;
+border: 10px solid black;
+border-radius: 20px;
+}
+.a3 {
+background-color:yellow ;
+font-family: Courier;
+font-size: 30px;
+color:white;
+line-height: 1;
+padding:30px;
+border: 30px solid black;
+border-radius: 30px;
+}
+.a4 {
+background-color: green;
+font-family: cursive;
+font-size: 40px;
+color:black;
+line-height: 1;
+padding:40px;
+border: 40px solid black;
+border-radius: 40px;
+}
+.a5 {
+background-color: blue;
+font-family: times;
+font-size: 50px;
+color:white;
+line-height: 1;
+padding:50px;
+border: 50px solid black;
+border-radius: 50px;
+}
